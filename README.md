@@ -61,9 +61,8 @@ Statistics:
 
 ## How to run CARec model
 
-```
+```python
 1.python recommendation.py -dataset Foursquare/Yelp -topK 100 -trainCheckin True -trainSenti True -trainTopic True -trainBPR True
-
 ```
 
 ## Citation
